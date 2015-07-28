@@ -1,0 +1,6 @@
+<Alloy>
+    <Window backgroundColor="white">
+        <LoginButton id="fbLogin" module="facebook" top="25" />
+        <LikeButton id="fbLike" module="facebook" top="100" />
+    </Window>
+</Alloy>
